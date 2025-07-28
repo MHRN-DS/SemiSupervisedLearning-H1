@@ -2,7 +2,7 @@
 
 This project focuses on implementing and comparing first-order optimization methods applied to **semi-supervised learning (SSL)**, using both synthetic datasets and the real-world **Digits dataset**. Various solver strategies are evaluated based on performance metrics such as classification accuracy, loss, and computational time.
 
-> **Submitted as: Homework 1 – Optimization for Data Science**  
+> **Grade received: 28.5/30**  
 > **Contributors**: [@MaxHorn](https://github.com/MHRN-DS), [@MikhailIsakov](https://github.com/Mishlen337), [@LennartBredthauer](https://github.com/Lenny945)  
 > **University of Padova, Optimization for Data Science – May 2025**  
 > Supervisor: Prof. Dr. Francesco Rinaldi
