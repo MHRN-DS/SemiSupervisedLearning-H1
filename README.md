@@ -1,8 +1,9 @@
-# Sparse Logistic Regression: Optimization for Classification Tasks
+# Semi-Supervised Learning via Gradient Descent, Block Coordinate Gradient Descent & Coordinate Minimization
+## A Theoretical & Empirical Study of Implementation of the Solvers
 
 This project focuses on implementing and comparing first-order optimization methods applied to **semi-supervised learning (SSL)**, using both synthetic datasets and the real-world **Digits dataset**. Various solver strategies are evaluated based on performance metrics such as classification accuracy, loss, and computational time.
 
-> **Grade received: 28.5/30**  
+> **Grade received: 30 e laude/30**  
 > **Contributors**: [@MaxHorn](https://github.com/MHRN-DS), [@MikhailIsakov](https://github.com/Mishlen337), [@LennartBredthauer](https://github.com/Lenny945)  
 > **University of Padova, Optimization for Data Science – May 2025**  
 > Supervisor: Prof. Dr. Francesco Rinaldi
