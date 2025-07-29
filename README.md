@@ -45,7 +45,7 @@ Implemented methods include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MHRN-DS/SemiSupervisedLearning-H1.git
-   cd sparse-logistic-homework
+   cd SemiSupervisedLearning-H1
    ```
 
 2. Install dependencies:
