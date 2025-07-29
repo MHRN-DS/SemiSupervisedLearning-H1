@@ -34,7 +34,7 @@ Implemented methods include:
 ├── syn_data.ipynb               # Experiments on synthetic datasets
 ├── digits.ipynb                 # Experiments on the Digits dataset
 ├── solvers_digits.py            # All solver implementations
-├── H1_ODS_Bredthauer_Isakov_Horn.pdf  # Full report submission
+├── SSL_Report.pdf               # Full report submission
 ├── data/                        # Digits dataset loaded via sklearn
 ```
 
