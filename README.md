@@ -86,11 +86,6 @@ Implemented methods include:
 - `matplotlib`
 - `pandas`
 
-To install all required libraries:
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## License
